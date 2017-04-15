@@ -1,0 +1,15 @@
+{
+	"name": "mikuia-plugin-osu",
+	"version": "0.1.0",
+	"author": "Hatsuney",
+	"license": "MIT",
+	"repository": {
+	"type": "git",
+		"url": "https://github.com/Mikuia/mikuia-client.git"
+	},
+	"devDependencies": {
+		"@types/node": "^7.0.5",
+        "ts-node": "^3.0.2",
+		"typescript": "^2.2.1"
+	}
+}
